@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Eduardo Mello Sampaio Bernardino and welcome to my profile 😁
 
 <ul>
-  <li>💻 Studying to become a Junior Full Stack Web Developer</li>
+  <li>💻 I am Junior Full Stack Web Developer</li>
   <li>✔️ The technologies I am most skilled at are HTML, CSS, Javascript, Node.js and ReactJS</li>
   <li>🎓 I am studying computer science at the Federal University of Catalão</li>
   <li>💬 Resilience, adaptability and problems resolution are my main Softskills</li>
