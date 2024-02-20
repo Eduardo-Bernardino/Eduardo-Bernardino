@@ -2,7 +2,7 @@
 
 <ul>
   <li>💻 I am Junior Full Stack Web Developer</li>
-  <li>✔️ The technologies I am most skilled at are HTML, CSS, Javascript, Node.js, ReactJSand GO</li>
+  <li>✔️ The technologies I am most skilled at are HTML, CSS, Javascript, Node.js, ReactJSand and GO</li>
   <li>🎓 I am studying computer science at the Federal University of Catalão</li>
   <li>💬 Resilience, adaptability and problems resolution are my main Softskills</li>
 </ul>
