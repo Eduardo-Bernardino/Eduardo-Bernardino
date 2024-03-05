@@ -20,6 +20,7 @@
 
 <div>
     <a href="https://github.com/Eduardo-Bernardino">
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Bernardino&show_icons=true&theme=onedark&include_all_commits=true&count_private=true">
     <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Bernardino&layout=compact&langs_count=8&theme=onedark">
 </div>
  
