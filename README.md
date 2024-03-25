@@ -2,7 +2,7 @@
 
 <ul>
   <li>💻 I am Junior Back-End Developer</li>
-  <li>✔️ The technologies I am most skilled at are GO, Javascript and Node.js </li>
+  <li>✔️ The technologies I am most skilled at are GO and Javascript </li>
   <li>🎓 I am studying computer science at the Federal University of Catalão</li>
   <li>💬 Resilience, adaptability and problems resolution are my main Softskills</li>
 </ul>
@@ -11,7 +11,7 @@
 
 <ul>
   <li>💻 Eu sou um Desenvolvedor Back-End Junior</li>
-  <li>✔️ As tecnologias que eu tenho mais habilidade são: GO, Javascript e Node.js</li>
+  <li>✔️ As tecnologias que eu tenho mais habilidade são: GO e Javascript</li>
   <li>🎓 Eu estou estudando ciências da computação na Universidade Federal de Catalão</li>
   <li>💬 Resiliência, adaptabilidade e resolução de problemas são minhas maiores Softskills</li>
 </ul>
